@@ -2,6 +2,12 @@ body {
  font-style: normal;
  font-variant: normal;
 }
+.container {
+  border: 6px solid #ff3300;
+  padding-left: 0px;
+  padding-right:0px
+}
+
 
 img {
   float: right;
