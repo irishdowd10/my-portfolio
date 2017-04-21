@@ -22,4 +22,8 @@ h1 {
 
 footer {
   text-align: center;
+  font-style: italic;
+  border: dotted lightblue 2px;
+  padding-top: 12px;
+
 }
