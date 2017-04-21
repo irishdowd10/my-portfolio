@@ -6,11 +6,10 @@
 
 ## Description
 
-_This is my Portfolio Page which tells everyone about me, job experience, education, current projects, and hobbies & interests
-## Setup/Installation Requirements_
+_This is my Portfolio Page which tells everyone about me, job experience,      education, current projects, and hobbies & interests_
 
-* _Go to Github https://github.com/irishdowd10/my-portfolio.git_
-* _Clone the page_
+##_Setup/Installation Requirements_
+* _Go to Github Pages hhttps://irishdowd10.github.io/my-portfolio/_
 * _Click on the html file and it should open in the browser_
 
 ## Known Bugs
