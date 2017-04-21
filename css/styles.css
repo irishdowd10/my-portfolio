@@ -1,11 +1,19 @@
+body {
+ font-style: normal;
+ font-variant: normal;
+}
+
 img {
   float: right;
 }
 .jumbotron{
   background-color: #ffcc99;
+}
 
 h1 {
   font-family: cursive;
+}
+
 }
 .top {
   text-align: center;
