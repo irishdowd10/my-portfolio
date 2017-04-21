@@ -19,9 +19,7 @@ h1 {
 .top {
   text-align: center;
 }
-.sidebar{
-  float: left;
-  width: 150px;
-  background-color: #ffcc99;
-  border-right: solid 2px lightblue;
+
+footer {
+  text-align: center;
 }
